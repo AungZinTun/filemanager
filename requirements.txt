@@ -1,3 +1,5 @@
 Django
 django-rest-framework
 django-webpack-loader
+gunicorn
+django-heroku
