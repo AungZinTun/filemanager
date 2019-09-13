@@ -9,6 +9,7 @@ verify_ssl = true
 gunicorn = "*"
 django-heroku = "*"
 psycopg2-binary = "*"
+django-webpack-loader = "*"
 
 [requires]
 python_version = "3.7"
